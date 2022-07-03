@@ -1,0 +1,12 @@
+.blog{
+    padding: 5em;
+    margin: 0em;
+    width: 50%;
+    align-items: center;
+    display: flex;
+}
+.vlog{
+    text-align: center;
+    color: cornflowerblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
